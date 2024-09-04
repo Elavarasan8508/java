@@ -1,0 +1,15 @@
+// We have to find the Average of the Array And then The Average is greater than the First Even number in the Array If Greater "Yes"  else "No"..
+
+
+public class Arr{
+public static void main(String[] args)
+{
+int[] a={1,6,3,4};
+int sum=0;
+for (int i=0;i<a.length;i++)
+{
+sum+=a[i];
+}
+System.out.print(sum);
+}
+}
