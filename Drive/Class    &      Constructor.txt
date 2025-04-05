@@ -1,0 +1,39 @@
+// Class    &      Constructor
+
+
+
+// Class
+
+/*class Car {
+
+    // Fields (properties)
+    String model;
+    int year;
+
+    // Method (behavior)
+    void displayInfo() {
+        System.out.println("Model: " + model + ", Year: " + year);
+    }
+}
+
+
+
+
+//Constructor
+
+class Car {
+    String model;
+    int year;
+
+    // Constructor to initialize the object
+    Car(String model, int year) {
+        this.model = model;
+        this.year = year;
+    }
+
+    void displayInfo() {
+        System.out.println("Model: " + model + ", Year: " + year);
+    }
+}
+
+*/ 
